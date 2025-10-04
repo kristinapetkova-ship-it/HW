@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E2A-5827
+
+ Directory of C:\DevOpsHW\hw021025\HW
+
+10/04/2025  11:48 AM    <DIR>          .
+10/04/2025  11:48 AM    <DIR>          ..
+10/04/2025  11:47 AM               314 .gitignore
+10/04/2025  11:48 AM                 0 file1.txt
+10/04/2025  11:47 AM             1,101 LICENSE
+10/04/2025  11:47 AM                 4 README.md
+               4 File(s)          1,419 bytes
+               2 Dir(s)  280,293,269,504 bytes free
